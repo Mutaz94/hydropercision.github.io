@@ -6,12 +6,12 @@ Tutorial for HydroPercision platform
 
 --------------------------------------------------------------------------------
 
-1) *HydroPK* 
+1. *HydroPK* 
 
-2) HydroFit
+2. HydroFit
 
-3) HydroNCA
+3. HydroNCA
 
-4) HydroPD 
+4. HydroPD 
 
-5) HydroPop
+5. HydroPop
