@@ -7,7 +7,11 @@ Tutorial for HydroPercision platform
 --------------------------------------------------------------------------------
 
 1) *HydroPK* 
-2) HydroFit 
-3) HydroNCA 
+
+2) HydroFit
+
+3) HydroNCA
+
 4) HydroPD 
+
 5) HydroPop
