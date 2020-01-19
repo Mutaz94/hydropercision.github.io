@@ -1,4 +1,4 @@
-# hydropercision.github.io
+# HydroPercision 
 
 Tutorial for HydroPercision platform
 
